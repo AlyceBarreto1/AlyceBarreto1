@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil <3
+### Boas vindas ao meu perfil
 
 Meu nome é Alyce Barreto
 
