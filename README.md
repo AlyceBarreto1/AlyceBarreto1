@@ -4,7 +4,7 @@ Meu nome é Alyce Barreto
 
 - Estou estudando na escola Antonieta Borges Alves
 - Curso Desenvolvimento de Sistemas
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para testes e projetos pessoais
 
 ### Você pode entrar em contato comigo
 
